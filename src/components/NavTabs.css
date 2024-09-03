@@ -1,0 +1,20 @@
+/* Custom background gradient for the nav-tabs */
+.bg-gradient-primary {
+    background: linear-gradient(45deg, #343a40, #212529);
+  }
+  
+  /* Custom background gradient for active nav-links */
+  .bg-gradient-secondary {
+    background: linear-gradient(45deg, #6c757d, #343a40);
+    color: white !important;
+  }
+  
+  /* Ensure the active link text color is white */
+  .nav-link.active {
+    color: white !important;
+  }
+  
+  /* Ensure the text color for non-active links is light */
+  .nav-link.text-light {
+    color: rgba(255, 255, 255, 0.75) !important;
+  }
