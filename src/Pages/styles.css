@@ -1,0 +1,24 @@
+.bg-green {
+    background-color: #dad7cd; /* Light green color */
+  }
+
+
+  /* about.css */
+.text-gray {
+    color: gray;
+  }
+
+
+  .btn-green {
+    background-color: #7e9971;
+    color: white;
+  }
+
+  .skills-list {
+    list-style-type: disc; /* Ensure list items are displayed as bullets */
+    padding-left: 20px; /* Add some padding to the left */
+  }
+  .btn-green:hover {
+    background-color: green; /* Keep the background color the same on hover */
+    color: white; /* Keep the text color the same on hover */
+  }

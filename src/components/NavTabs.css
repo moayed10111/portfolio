@@ -1,20 +1,22 @@
-/* Custom background gradient for the nav-tabs */
-.bg-gradient-primary {
-    background: linear-gradient(45deg, #343a40, #212529);
-  }
-  
-  /* Custom background gradient for active nav-links */
-  .bg-gradient-secondary {
-    background: linear-gradient(45deg, #6c757d, #343a40);
-    color: white !important;
-  }
-  
-  /* Ensure the active link text color is white */
-  .nav-link.active {
-    color: white !important;
-  }
-  
-  /* Ensure the text color for non-active links is light */
-  .nav-link.text-light {
-    color: rgba(255, 255, 255, 0.75) !important;
-  }
+ul li {
+    display: inline;
+    margin: 0 10px;
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none !;
+}
+
+.activeNav {
+    color: #FAFAFF;
+    font-weight: 600;
+}
+.activeNav:hover {
+    color: #D6D2D2;
+}
+.restNav {
+    color: whitesmoke;
+}
+.restNav:hover {
+    color:#d6d2d2;
+}
+
