@@ -12,7 +12,10 @@ function App() {
       <main className="mx-3">
         <Outlet />
       </main>
+      <div className="footer-margin-top">
       <Footer />
+      </div>
+    
     </>
   );
 }
