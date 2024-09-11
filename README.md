@@ -17,7 +17,7 @@ A personal portfolio web application built with **React.js**. This project showc
 
 ## Demo
 
-Check out the live demo of the app [here](#). *(Add the link to your live demo once deployed)*
+Check out the live demo of the app [here](https://sweet-bublanina-9aea1a.netlify.app/).
 
 ## Features
 
